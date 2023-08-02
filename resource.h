@@ -1,6 +1,6 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ generated include file.
-// Used by NFSCRaceFixes.rc
+// Used by NFSU2AntiCull.rc
 
 // Next default values for new objects
 // 
